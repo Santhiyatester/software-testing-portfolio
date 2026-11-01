@@ -1,0 +1,25 @@
+Selenium Automation Practice
+This project contains my hands-on practice with Selenium WebDriver using Java.
+
+Topics Practised
+- Browser launch and navigation
+- Web elements and locators
+- Text boxes, buttons, checkboxes and radio buttons
+- Dropdown handling
+- Alerts and frames
+- Window handling
+- File upload
+- Drag and drop
+- Tables and tooltips
+
+Technologies Used
+- Java
+- Selenium WebDriver
+- Maven
+- Eclipse IDE
+
+Project Structure
+`src/test/java/com/automateWebsite` – Selenium practice scripts.
+
+Purpose
+This project demonstrates my learning and practical implementation of Selenium WebDriver concepts.
