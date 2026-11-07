@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "suit name" parallel = "" verbose = "2">
+	<test name = "test name">
+	<parameter name = "username" value = "student"></parameter>
+	<parameter name = "password" value = "Password123"></parameter>
+	<groups>
+		<run>
+			<!-- <include name = "oppo"></include>
+			<include name = "sam"></include> -->
+			<exclude name = "apple"></exclude>
+		</run>
+	</groups>
+		<classes>
+			<class name = "com.TestNg.Dependencies"></class>
+			<class name = "com.TestNg.OpenBrowser"></class>
+			<class name = "com.TestNg.TestNg"></class>
+			<class name = "com.TestNg.OpenWebsite"></class>
+			<class name = "com.TestNg.Mobilephones"></class>
+		</classes>
+	</test>
+</suite>
